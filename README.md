@@ -1,2 +1,2 @@
 # Practical-works-on-IS
-Pass - 12345
+Pass for ФИО.txt - 12345
